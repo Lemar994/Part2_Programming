@@ -1,0 +1,10 @@
+kel_1|Password1@|Kelvin|Momo|+27831234567
+mph_1|Password2@|Mpho|Pops|+27831234568
+Test|User|te_st|Password1@|+27821234567
+Test|User|te_st|Password1@|+27821234567
+Test|User|te_st|Password1@|+27821234567
+Test|User|te_st|Password1@|+27821234567
+Kelvin|Momo|kel_1|Password1@|+27826075150
+Test|User|te_st|Password1@|+27821234567
+Test|User|te_st|Password1@|+27821234567
+Test|User|te_st|Password1@|+27821234567
